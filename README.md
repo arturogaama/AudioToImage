@@ -1,2 +1,2 @@
-# AudioToImage
-Convertir una pista de audio a imagen atreves de un espectrograma.
+# Redes Neuronales Recurrentes
+Predecir el precio del petroleo, oro y/o plata con ayuda de las redes neuronales recurrentes o RNN.
